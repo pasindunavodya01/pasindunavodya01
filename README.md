@@ -60,7 +60,7 @@ Building scalable apps & real-world systems
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/pasindu-navodya-476895297/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/pasindu-navodya-476895297/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/></a>
 </p>
 
 ---

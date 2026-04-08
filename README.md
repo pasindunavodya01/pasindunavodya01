@@ -10,8 +10,8 @@ Building scalable apps & real-world systems
 
 ## 🧠 About Me
 
-- 🚀 Currently building real-world SaaS applications  
-- 📱 Working with Flutter, React, Node.js, Laravel  
+- 🚀 Currently building real-world Web and Mobile Applications  
+- 📱 Working with React, Node.js, Express.js , React Native  
 - 🧩 Love solving real business problems with tech  
 - 🎯 Goal: Build my own successful tech startup  
 
@@ -43,7 +43,7 @@ Building scalable apps & real-world systems
 ## 🚀 Featured Projects
 
 - 🚗 **LuxuryCarHub** – Car marketplace (Flutter + Laravel + MongoDB)  
-- 📚 **Driving School System** – Full-stack system (React + Node + Firebase)  
+- 🚀 **GymManagementSystem** - A full-stack system for managing gym members, attendance, and payments.
 - 💻 **BookLoop** – Book sharing platform with messaging system  
 - 🚕 **Transport SaaS Idea** – Real-time tracking + maps integration  
 

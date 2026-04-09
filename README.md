@@ -61,7 +61,17 @@ Building scalable apps & real-world systems
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pasindu-navodya-476895297/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/></a>
+  <a href="mailto:pasinavod@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  
+  <a href="https://pasindu-navodya.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/pasindu-rathnayake-476895297/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---

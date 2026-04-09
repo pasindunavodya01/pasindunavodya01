@@ -70,7 +70,7 @@ Building scalable apps & real-world systems
   </a>
 
   <a href="https://www.linkedin.com/in/pasindu-rathnayake-476895297/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pasindu</h1>
 
-<h3 align="center">🚀 Aspiring SaaS Founder | Full-Stack Developer</h3>
+<h3 align="center">🚀 Computer Science Undergraduate | Full-Stack Developer</h3>
 
 <p align="center">
 Building scalable apps & real-world systems
@@ -13,7 +13,7 @@ Building scalable apps & real-world systems
 - 🚀 Currently building real-world Web and Mobile Applications  
 - 📱 Working with React, Node.js, Express.js , React Native  
 - 🧩 Love solving real business problems with tech  
-- 🎯 Goal: Build my own successful tech startup  
+    
 
 ---
 
